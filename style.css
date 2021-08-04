@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
+
+body {
+  color: #082032;
+  font-size: 1em;
+  text-align: center;
+  background-color: #F7F9FC;
+  font-family: 'Noto Serif JP', serif;
+  line-height: 30px;
+  padding-top: 5px;
+}
+
+h1, h2, h3 {
+  color: #001E6C;
+  font-family: 'Noto Serif JP', serif;
+}
+
+p {
+  padding: 10px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: .8em;
+  font-weight: bold;
+  background-color: #6B72E1;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: #082032;
+}
+
+.btn-blue {
+  color: white;
+  background-color: #6B72E1;
+  margin-top: 10px;
+}
+
+.container {
+  width: 700px;
+  margin: 10px auto;
+  padding: 0;
+  background-color: white;
+  text-align: center;
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+}
+
+ul {
+  padding: 0;
+}
+
+.list-inline>li {
+  font-size: 1em;;
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+}
+
+
+@media (max-width: 700px) {
+  .container {
+    width: 300px;
+    font-size: .8em;
+  }
+  ul.list-inline>li {
+    display: block;
+  }
+}
