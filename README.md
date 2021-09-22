@@ -9,7 +9,7 @@ const victoria = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Ruby, JavaScript],
   tools: [Ruby on Rails, Heroku, Bootsrap, Figma, PostgreSQL, Sass],
-	challenge: "I am currently learning React.js"
+	challenge: "I am currently advancing JS"
 }
 ```
 
