@@ -8,7 +8,7 @@
 const victoria = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Ruby, JavaScript],
-  tools: [Ruby on Rails, Heroku, Bootsrap, Figma, PostgreSQL, Sass],
+  tools: [Ruby on Rails, Heroku, Bootstrap, Figma, PostgreSQL, Sass],
   challenge: ["I am currently advancing JS"]
 }
 ```
