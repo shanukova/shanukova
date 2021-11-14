@@ -1,5 +1,5 @@
 <h2 align='center'> Hi, I'm Victoria! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align='center'>A fresh full-stack developer grduated from <a href="https://www.lewagon.com/">Le Wagon </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3 align='center'>A fresh full-stack developer graduated from <a href="https://www.lewagon.com/">Le Wagon </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
