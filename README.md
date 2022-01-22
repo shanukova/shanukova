@@ -23,5 +23,5 @@ const victoria = {
 [![GitHub shanukova](https://img.shields.io/github/followers/shanukova?label=follow&style=social)](https://github.com/shanukova)
 
 
-![Codewars](https://www.codewars.com/users/shanukova/badges/large)
+[![Codewars](https://www.codewars.com/users/shanukova/badges/large)](https://www.codewars.com/users/shanukova)
 
