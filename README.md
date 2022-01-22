@@ -21,3 +21,7 @@ const victoria = {
 
 [![Linkedin: shanukova](https://img.shields.io/badge/-shanukova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanukova/)](https://www.linkedin.com/in/shanukova/)
 [![GitHub shanukova](https://img.shields.io/github/followers/shanukova?label=follow&style=social)](https://github.com/shanukova)
+
+
+![Codewars](https://www.codewars.com/users/shanukova/badges/large)
+
